@@ -2,8 +2,7 @@
 Search for pages with spoken key words
 
 ## Description 
-Query [Wikipedia](https://www.wikipedia.org) for answers to all your questions!  Get just the
-summary, or ask for more to get in-depth information.
+Use mycroft to query pages from pdf with spoken keywords.
 
 ## Examples 
 * "filter for linux"
