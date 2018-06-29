@@ -96,14 +96,6 @@ def parse_obj(objs):
 
     return counter
 
-# document=createPDFDoc("/home/david/Downloads/Ben Clark - Red Team Field Manual.pdf")
-# device,interpreter=createDeviceInterpreter()
-# pages=PDFPage.create_pages(document)
-# interpreter.process_page(pages.next())
-# layout = device.get_result()
-#
-#
-# parse_obj(layout._objs)
 
 
 # Open a PDF file.
