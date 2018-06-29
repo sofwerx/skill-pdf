@@ -17,7 +17,7 @@ Assumptions
 * Ubunutu 16.04
 * Mycroft install correctly - https://mycroft.ai/documentation/linux/
 * Need to change  pdf file name in pdfkeywordpagesearch.py
-* Some python packges may need to bed installed in the python virtual environment 
+* Some python packges may need to be installed in the python virtual environment 
 
 Clone the repo to the location of the skills. Skills should be in /opt/mycroft/skills/
 
