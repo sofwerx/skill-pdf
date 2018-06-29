@@ -19,7 +19,7 @@ Assumptions
 * Need to change  pdf file name in pdfkeywordpagesearch.py
 * Some python packges may need to bed installed in the python virtual environment 
 
-Clone the repo to the location of the skills. They should be in /opt/mycroft/skills/
+Clone the repo to the location of the skills. Skills should be in /opt/mycroft/skills/
 
 Restart Mycroft wait 30 seconds and begin.
 
