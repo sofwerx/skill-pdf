@@ -23,6 +23,3 @@ Clone the repo to the location of the skills. They should be in /opt/mycroft/ski
 
 Restart Mycroft wait 30 seconds and begin.
 
-'
-
-'
